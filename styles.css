@@ -2,14 +2,6 @@ body {
     background-color: #ffbbe8;
 }
 
-h1 {
-    color: white;
-}
-
-p {
-    margin: 10px;
-}
-
 .question {
     font-family: 'Raleway', serif;
     color: white;
@@ -22,6 +14,7 @@ p {
     text-align: center;
     margin: 50px;
     font-family: 'Playfair Display', serif;
+    font-size: 21px;
 }
 
 .header {
