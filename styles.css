@@ -9,3 +9,12 @@ h1 {
 p {
     margin: 10px;
 }
+
+.question {
+    color: white;
+    font-style: italic;
+    font-size: medium;
+}
+
+.answer {
+}
