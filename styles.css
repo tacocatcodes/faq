@@ -24,10 +24,10 @@ p {
 .header {
     text-align: center;
     margin: 50px;
-    font-size: x-large;
+    font-size: xx-large;
     color:white;
 }
 
 .content {
-    margin: 50px;
+    margin: 100px;
 }
