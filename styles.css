@@ -17,4 +17,16 @@ p {
 }
 
 .answer {
+    text-align: center;
+    margin: 50px;
+}
+
+.header {
+    text-align: center;
+    margin: 50px;
+}
+
+.content {
+    text-align: center;
+    margin: 50px;
 }
