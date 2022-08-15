@@ -1,5 +1,5 @@
 body {
-    background-color: #FF79D1;
+    background-color: #ffbbe8;
 }
 
 h1 {
@@ -11,20 +11,24 @@ p {
 }
 
 .question {
+    font-family: 'Raleway', serif;
     color: white;
     font-style: italic;
-    font-size: medium;
+    font-size: 32px;
+    text-align: center;
 }
 
 .answer {
     text-align: center;
     margin: 50px;
+    font-family: 'Playfair Display', serif;
 }
 
 .header {
+    font-family: 'Raleway', serif;
     text-align: center;
     margin: 50px;
-    font-size: xx-large;
+    font-size: 48px;
     color:white;
 }
 
