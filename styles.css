@@ -24,9 +24,10 @@ p {
 .header {
     text-align: center;
     margin: 50px;
+    font-size: x-large;
+    color:white;
 }
 
 .content {
-    text-align: center;
     margin: 50px;
 }
